@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@kyvg/vue3-notification": "^3.0.2",
+    "firebase": "^10.6.0",
+    "firebase-tools": "^12.9.1",
     "ts": "^0.2.2",
     "uuid": "^9.0.1",
     "vue": "^3.3.4",
